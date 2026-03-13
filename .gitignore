@@ -33,6 +33,8 @@ htmlcov/
 # Local environment
 .env
 .env.*
+!.env.example
+*.db
 
 # Logs
 *.log
